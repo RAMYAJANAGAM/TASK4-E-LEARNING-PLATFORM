@@ -23,3 +23,4 @@ This e-learning front-end platform is applicable in multiple real-world scenario
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/90ccec0d-eb67-4980-a348-4e74fe104cdb)
